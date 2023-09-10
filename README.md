@@ -21,6 +21,7 @@ This template contains:
   - Ping command
   - Avatar command
   - Advanced help command
+- Multi-server prefix
 
 **More on the way!**
 
@@ -32,3 +33,5 @@ To start you must create a new application in [Discord Developer Portal] and obt
 Now, with your bot's token, go to the `config.js` file (*You can find it in `./Handler/Main/Config.js`*) once inside replace "`YOUR TOKEN HERE`" with your bot's token bot
 
 [![image](https://media.discordapp.net/attachments/1006970702819246222/1150225611978182716/Config2.png?width=1025&height=61)](https://media.discordapp.net/attachments/1006970702819246222/1150225611978182716/Config2.png?width=1025&height=61)
+
+Once your token has been correctly placed, you must invite your bot to your server, for that you can go to [Permissions Calculator](https://discordapi.com/permissions.html#1099511627775) a page where you can choose the permissions of your bot and invite it (*Follow the instructions it asks for*)
