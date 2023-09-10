@@ -9,6 +9,7 @@
 - [Networks](#networks)
 
 ## This template uses the packages
+- [nodejs](https://nodejs.org/)
 - [aoi.js](https://www.npmjs.com/package/aoi.js)
 - [@akarui/aoi.db](https://www.npmjs.com/package/@akarui/aoi.db)
 
