@@ -4,7 +4,7 @@
 ## Content
 - [Required packages](#this-template-uses-the-packages)
 - [Features](#features)
-- [Firs steps](#firs-steps)
+- [Firs steps](#first-steps)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CWkDtYT8py)
 
