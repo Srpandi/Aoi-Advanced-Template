@@ -6,8 +6,7 @@
 - [Features](#features)
 - [Firs steps](#first-steps)
 - [Preview](#preview)
-
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CWkDtYT8py)
+- [Networks](#networks)
 
 ## This template uses the packages
 - [aoi.js](https://www.npmjs.com/package/aoi.js)
@@ -72,3 +71,15 @@ There should be a green button that says '`Run`', press it and if you did all th
 [![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/7fef778e-adb3-4d53-90a7-1529e4459707)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/7fef778e-adb3-4d53-90a7-1529e4459707)
 
 [![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/0677a8bc-65ca-42d6-8434-abea32046441)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/0677a8bc-65ca-42d6-8434-abea32046441)
+
+More commands and updates coming soon!
+
+## Networks
+
+- **Aoi Server:**
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV)
+
+- **Infinity Studios Server:**
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CWkDtYT8py)
