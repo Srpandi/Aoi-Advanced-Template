@@ -28,3 +28,5 @@ This template contains:
 To start you must create a new application in [Discord Developer Portal] and obtain the token of your bot, make sure you have all Privileged Gateway Intents enabled. (*reference image*)
 
 [![image](https://media.discordapp.net/attachments/1006970702819246222/1150223556211376138/Gateway.png?width=842&height=468)](https://media.discordapp.net/attachments/1006970702819246222/1150223556211376138/Gateway.png?width=842&height=468)
+
+Now, with your bot token, go to the `config.js` file (*You can find it in `./Handler/Main/Config.js`*)
