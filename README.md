@@ -9,3 +9,15 @@
 ## This template uses the packages
 - [aoi.js](https://www.npmjs.com/package/aoi.js)
 - [@akarui/aoi.db](https://www.npmjs.com/package/@akarui/aoi.db)
+
+## Features
+This template contains:
+- Advanced moderation system.
+  - Case system
+  - Warn command
+- Various commands
+  - Ping command
+  - Avatar command
+  - Advanced help command
+
+**More on the way!**
