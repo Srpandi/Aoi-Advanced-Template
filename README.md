@@ -5,6 +5,7 @@
 - [Required packages](#this-template-uses-the-packages)
 - [Features](#features)
 - [Firs steps](#first-steps)
+- [Preview](#preview)
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CWkDtYT8py)
 
@@ -48,3 +49,12 @@ node index.js
 - From Replit:
 
 There should be a green button that says '`Run`', press it and if you did all the steps correctly your bot will turn on.
+
+## Preview
+
+- **Warn Command:**
+[![image](https://media.discordapp.net/attachments/1132926858481119304/1150232765086842912/Warn.png)](https://media.discordapp.net/attachments/1132926858481119304/1150232765086842912/Warn.png)
+
+
+- **View-Case Command:**
+[![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/c677008b-7695-41cf-8d22-d51b4d06e888)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/c677008b-7695-41cf-8d22-d51b4d06e888)
