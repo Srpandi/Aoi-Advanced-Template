@@ -29,4 +29,6 @@ To start you must create a new application in [Discord Developer Portal] and obt
 
 [![image](https://media.discordapp.net/attachments/1006970702819246222/1150223556211376138/Gateway.png?width=842&height=468)](https://media.discordapp.net/attachments/1006970702819246222/1150223556211376138/Gateway.png?width=842&height=468)
 
-Now, with your bot token, go to the `config.js` file (*You can find it in `./Handler/Main/Config.js`*)
+Now, with your bot's token, go to the `config.js` file (*You can find it in `./Handler/Main/Config.js`*) once inside replace "`YOUR TOKEN HERE`" with your bot's token bot
+
+[![image](https://media.discordapp.net/attachments/1006970702819246222/1150225611978182716/Config2.png?width=1025&height=61)](https://media.discordapp.net/attachments/1006970702819246222/1150225611978182716/Config2.png?width=1025&height=61)
