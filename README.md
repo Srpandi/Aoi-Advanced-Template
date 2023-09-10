@@ -60,3 +60,15 @@ There should be a green button that says '`Run`', press it and if you did all th
 - **View-Case Command:**
 
 [![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/c677008b-7695-41cf-8d22-d51b4d06e888)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/c677008b-7695-41cf-8d22-d51b4d06e888)
+
+
+- **Avatar Command:**
+
+[![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/e5ab50e1-c983-42bd-8b79-524409600acb)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/e5ab50e1-c983-42bd-8b79-524409600acb)
+
+
+- **Help Command**
+
+[![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/7fef778e-adb3-4d53-90a7-1529e4459707)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/7fef778e-adb3-4d53-90a7-1529e4459707)
+
+[![image](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/0677a8bc-65ca-42d6-8434-abea32046441)](https://github.com/Srpandi/Aoi-Advanced-Template/assets/104927437/0677a8bc-65ca-42d6-8434-abea32046441)
