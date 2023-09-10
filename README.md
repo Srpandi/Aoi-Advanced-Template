@@ -36,7 +36,7 @@ Now, with your bot's token, go to the `config.js` file (*You can find it in `./H
 
 Once your token has been correctly placed, you must invite your bot to your server, for that you can go to [Permissions Calculator](https://discordapi.com/permissions.html#1099511627775) a page where you can choose the permissions of your bot and invite it (*Follow the instructions it asks for*)
 Once you invited your bot, you have to turn it on. There are several ways to do this.
-- From Visual Studio Code
+- From Visual Studio Code: 
 
 Press the keys `control + shift + B ` (*This may be different*)
 In the terminal put:
@@ -45,6 +45,5 @@ node .
 or
 node index.js
 ```
-- From Replit
-
+- From Replit: 
 There should be a green button that says '`Run`', press it and if you did all the steps correctly your bot will turn on.
