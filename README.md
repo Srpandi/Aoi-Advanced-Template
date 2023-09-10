@@ -45,5 +45,6 @@ node .
 or
 node index.js
 ```
-- From Replit: 
+- From Replit:
+
 There should be a green button that says '`Run`', press it and if you did all the steps correctly your bot will turn on.
