@@ -12,6 +12,7 @@
 - [nodejs](https://nodejs.org/)
 - [aoi.js](https://www.npmjs.com/package/aoi.js)
 - [@akarui/aoi.db](https://www.npmjs.com/package/@akarui/aoi.db)
+- [express](https://www.npmjs.com/package/express)
 
 ## Features
 This template contains:
