@@ -26,7 +26,7 @@ loader.load(bot.cmd, "./Handler/Commands/")
 bot.variables(require('./Handler/Main/Variables.js'), "main") // For general variables
 bot.variables({
     guild_cases: {}, // Object type variable, with which we save the cases with their information
-    cases: 0 // Number of cases
+    case: 0 // Number of cases
 }, "cases") // Unique to the case system
 
 bot.readyCommand({
