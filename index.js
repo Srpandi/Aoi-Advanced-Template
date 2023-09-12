@@ -50,16 +50,17 @@ Bot invite: https://discord.com/oauth2/authorize?client_id=$clientID&scope=bot&p
 
 /* [{ REPLIT }] */
 
-if(config.replit.replit === true) {
-    const app = require('express');
+if (config.replit.replit === true) {
+  const express = require('express')
+  const app = express()
 
-    app.get('/', (req, res) => {
-        res.send("Hi");
-    });
+  app.get('/', function(req, res) {
+    res.send('Hello World')
+  })
 
-    app.listen(config.replit.port, () => {
-        if(config.logs === true) {
-            console.log(`Connection was established correctly with port ${config.replit.port}`)
-        }
-    })
+  app.listen(config.replit.port, () => {
+    if (config.logs === true) {
+      console.log(`Connection was established correctly with port ${config.replit.port}`)
+    }
+  })
 }
