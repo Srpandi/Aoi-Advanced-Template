@@ -82,6 +82,6 @@ More commands and updates coming soon!
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV)
 
-- **Infinity Studios Server:**
+- **ToolBot Server:**
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CWkDtYT8py)
