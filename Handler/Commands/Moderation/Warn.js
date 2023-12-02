@@ -10,18 +10,18 @@ module.exports = [{
     },
     $if: "old",
     code: `
-$setGuildVar[guild_cases;$getObject[true];$guildId;cases]
+$setGuildVar[guild_cases;$getObject[case;true];$guildId;cases]
 
 
-$addObjectProperty[case_$getGuildVar[case;$guildID;cases];{"mod": "$authorID", "user": "$findMember[$message[1];false]", "reason": "$replaceText[$replaceText[$replaceText[$checkCondition[$messageSlice[1]==];true;No reason provided];false;$messageSlice[1]];\n;]", "datestamp": "$dateStamp", "deleted": false, "action": "warn"}]
+$setObjectProperty[case;case_$getGuildVar[cases;$guildID;cases];{"mod": "$authorID", "user": "$findMember[$message[1];false]", "reason": "$replaceText[$replaceText[$replaceText[$checkCondition[$messageSlice[1]==];true;No reason provided];false;$messageSlice[1]];\n;]", "datestamp": "$dateStamp", "deleted": false, "action": "warn"}]
 
 
-:white_check_mark: \`Case #$getGuildVar[case;$guildID;cases]\` <@$findMember[$message[1];false]> has been warned
+:white_check_mark: \`Case #$getGuildVar[cases;$guildID;cases]\` <@$findMember[$message[1];false]> has been warned
 
-$createObject[$getGuildVar[guild_cases;$guildID;cases]]
+$createObject[case;$getGuildVar[guild_cases;$guildID;cases]]
 
 
-$setGuildVar[case;$sum[$getGuildVar[case;$guildID;cases];1];$guildID;cases]
+$setGuildVar[cases;$sum[$getGuildVar[cases;$guildID;cases];1];$guildID;cases]
 
 
 $onlyIf[$findMember[$message[1];false]!=$ownerID;:x: I can't warn the server owner!]
@@ -50,7 +50,7 @@ Provides a user to warn
 
 $onlyIf[$hasAnyPerm[$guildID;$authorID;manageroles;manageguild;administrator;kickmembers]==true;:x: I need \`Manage Roles\` permissions]
 
-$onlyIf[$hasAnyPerm[$guildID;$authorID;manageroles;manageguild;administrator;kickmembers]==true;:x: You need \`Kick Members\` or \`Manage Roles\` permissions]
+$onlyIf[$hasAnyPerm[$guildID;$clientID;manageroles;manageguild;administrator;kickmembers]==true;:x: You need \`Kick Members\` or \`Manage Roles\` permissions]
 
 $disableMentionType[all]
 `
