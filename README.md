@@ -1,6 +1,8 @@
 # Aoi Advanced Template
 - Advanced template for your discord bot
 
+Aoi version: `6.5.6`
+
 ## Content
 - [Required packages](#this-template-uses-the-packages)
 - [Features](#features)
