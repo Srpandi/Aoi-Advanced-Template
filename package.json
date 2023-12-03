@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@akarui/aoi.db": "^1.0.0",
-    "aoi.js": "^6.4.0"
+    "aoi.js": "^6.5.6"
   }
 }
