@@ -37,7 +37,7 @@ $elseif[$checkCondition[$message!=||$commandInfo[$message;name]!=||$commandInfo[
 $author[$toLocaleUpperCase[$commandInfo[$message;name]] Command;$userAvatar[$clientID]]
 $description[$commandInfo[$message;info.description]]
 $addField[User permissions:;\`$replaceText[$replaceText[$checkCondition[$commandInfo[$message;info.user_permissions]==||$commandInfo[$message;info.user_permissions]==undefined];true;No permissions required];false;$replaceText[$commandInfo[$message;info.user_permissions];,;\`, \`]]\`]
-$addField[Bot permisssions:;\`$replaceText[$replaceText[$checkCondition[$commandInfo[$message;info.bot_permissions]==||$commandInfo[$message;info.bot_permissions]==undefined];true;No permissions required];false;$replaceText[$commandInfo[$message;info.bot_permissions];,;\`, \`]]\`]
+$addField[Bot permissions:;\`$replaceText[$replaceText[$checkCondition[$commandInfo[$message;info.bot_permissions]==||$commandInfo[$message;info.bot_permissions]==undefined];true;No permissions required];false;$replaceText[$commandInfo[$message;info.bot_permissions];,;\`, \`]]\`]
 $addField[Aliases:;\`$replaceText[$replaceText[$checkCondition[$commandinfo[$message;aliases]==||$commandinfo[$message;aliases]==undefined];true;No aliases to show];false;$replaceText[$commandInfo[$message;info.aliases];,;\`, \`]]\`]
 $addField[Usage:;\`$getGuildVar[prefix]$commandInfo[$message;info.usage]\`]
 $color[Random]
