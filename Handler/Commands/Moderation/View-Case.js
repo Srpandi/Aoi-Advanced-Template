@@ -14,7 +14,7 @@ $description[**User:** $userTag[$getObjectProperty[case;case_$message[1].user]] 
 **Reason:** $getObjectProperty[case;case_$message[1].reason]
 **Deleted?:** $getObjectProperty[case;case_$message[1].deleted]
 ]
-$color[$replaceText[$getObjectProperty[case;case_$message[1].action];warn;FFC005]]
+$color[$replaceText[$replaceText[$getObjectProperty[case;case_$message[1].action];warn;FFC005];ban;ff2e2e]]
 $footer[Case #$message[1]]
 
 $let[mod;$getObjectProperty[case;case_$message[1].mod]]
