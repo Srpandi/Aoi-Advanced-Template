@@ -1,7 +1,7 @@
 # Aoi Advanced Template
 - Advanced template for your discord bot
 
-Aoi version: `6.5.6`
+Aoi version: `6.6.1`
 
 ## Content
 - [Required packages](#this-template-uses-the-packages)
@@ -11,10 +11,12 @@ Aoi version: `6.5.6`
 - [Networks](#networks)
 
 ## This template uses the packages
-- [nodejs](https://nodejs.org/)
-- [aoi.js](https://www.npmjs.com/package/aoi.js)
-- [@akarui/aoi.db](https://www.npmjs.com/package/@akarui/aoi.db)
-- [express](https://www.npmjs.com/package/express)
+- [nodejs](https://nodejs.org/) 
+- [aoi.js](https://www.npmjs.com/package/aoi.js) - v6.6.1
+- [@akarui/aoi.db](https://www.npmjs.com/package/@akarui/aoi.db) - v1.4.0
+- [express](https://www.npmjs.com/package/express) - v4.18.2
+- [wordnik-latest](https://www.npmjs.com/package/wordnik-latest) - v1.0.2
+- [colors](https://www.npmjs.com/package/colors) - v1.4.0
 
 ## Features
 This template contains:
